@@ -1,2 +1,2 @@
 # Tensor_network
-Tensor networks for image classification on TensorFlow
+Tensor networks for MNIST classification on TensorFlow
