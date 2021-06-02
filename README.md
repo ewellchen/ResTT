@@ -1,2 +1,3 @@
 # Tensor_network
-Tensor networks for MNIST classification on TensorFlow
+Residual tensor network for learning multiple multilinear correlation
+
