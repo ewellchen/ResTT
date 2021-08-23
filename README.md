@@ -1,3 +1,5 @@
 # Residual tensor train
-Residual tensor train for learning multiple multilinear correlation
+Residual Tensor Train: a Flexible and Efficient Approach for Learning Multiple Multilinear Correlations
+
+
 
