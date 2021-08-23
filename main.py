@@ -145,9 +145,9 @@ if __name__ == '__main__':
     repeat_time = 10
     for pro in [1]:
         # dataset
-        trainDataset = DealDataset('data/Fashion_mnist/', "train-images-idx3-ubyte.gz", "train-labels-idx1-ubyte.gz",
+        trainDataset = DealDataset('data/MNIST/', "train-images-idx3-ubyte.gz", "train-labels-idx1-ubyte.gz",
                                    proportion=pro, begin=0)
-        testDataset = DealDataset('data/Fashion_mnist/', "t10k-images-idx3-ubyte.gz", "t10k-labels-idx1-ubyte.gz", proportion=1,
+        testDataset = DealDataset('data/MNIST/', "t10k-images-idx3-ubyte.gz", "t10k-labels-idx1-ubyte.gz", proportion=1,
                                   begin=0)
         train_loader = DataLoader(dataset=trainDataset, batch_size=args.batch_size, shuffle=True)
         test_loader = DataLoader(dataset=testDataset, batch_size=args.test_batch_size, shuffle=True)
