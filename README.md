@@ -23,9 +23,7 @@ Or just use the following code:
 
 ### Training
 
-To train DynamicViT models on ImageNet, run:
-
-DeiT-small
+To train ResTT, run:
 ```
 python main.py
 ```
