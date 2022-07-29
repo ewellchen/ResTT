@@ -2,7 +2,7 @@
 
 This repository contains PyTorch implementation for ResTT.
 
-For more details, please refer to[arXiv](https://arxiv.org/abs/2108.08659), [T-AI]](https://ieeexplore.ieee.org/document/9842296)
+For more details, please refer to[arXiv](https://arxiv.org/abs/2108.08659) and [T-AI](https://ieeexplore.ieee.org/document/9842296)
 
 **Abstract:**
 
