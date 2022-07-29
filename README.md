@@ -16,10 +16,6 @@ Tensor Train (TT) approach has been successfully applied in the modelling of the
 - torchvision>=0.2.0
 - opencv-python==4.5.3
 
-Or just use the following code:
-
-`pip install -r requirements.txt`
-
 
 ### Training
 
