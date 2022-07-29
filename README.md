@@ -1,4 +1,4 @@
-# Residual Tensor Train: a Flexible and Efficient Approach for Learning Multiple Multilinear Correlations
+# Residual Tensor Train: A Quantum-inspired Approach for Learning Multiple Multilinear Correlations
 
 This repository contains PyTorch implementation for ResTT.
 
