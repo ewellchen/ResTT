@@ -30,14 +30,6 @@ MIT License
 ## Citation
 If you find our work useful in your research, please consider citing:
 ```
-@article{chen2021residual,
-  title={Residual Tensor Train: a Flexible and Efficient Approach for Learning Multiple Multilinear Correlations},
-  author={Chen, Yiwei and Pan, Yu and Dong, Daoyi},
-  journal={arXiv preprint arXiv:2108.08659},
-  year={2021}
-}
-```
-```
 @article{chen2022residual,
   title={Residual Tensor Train: A Quantum-inspired Approach for Learning Multiple Multilinear Correlations},
   author={Chen, Yiwei and Pan, Yu and Dong, Daoyi},
