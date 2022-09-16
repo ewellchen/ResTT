@@ -1,4 +1,4 @@
-# ResTT: A Quantum-inspired Approach for Learning Multiple Multilinear Correlations
+# ResTT: A Quantum-inspired Model for Learning Multilinear Correlations
 
 This repository contains PyTorch implementation for ResTT.
 
