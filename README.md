@@ -37,3 +37,12 @@ If you find our work useful in your research, please consider citing:
   year={2021}
 }
 ```
+```
+@article{chen2022residual,
+  title={Residual Tensor Train: A Quantum-inspired Approach for Learning Multiple Multilinear Correlations},
+  author={Chen, Yiwei and Pan, Yu and Dong, Daoyi},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2022},
+  publisher={IEEE}
+}
+```
